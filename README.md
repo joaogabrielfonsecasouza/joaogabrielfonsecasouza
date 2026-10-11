@@ -48,5 +48,5 @@ Projetos acadêmicos, exercícios de programação e projetos pessoais desenvolv
 
 ### Linguagens que estou estudando
 
-![Linguagens utilizadas no WakaTime](https://wakatime.com/share/@3b57f428-dcf9-4dbe-aac8-48df5d19d7ed/f0a938a7-9d85-462d-a140-e88fe51317fc.svg)
+
 
