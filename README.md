@@ -1,4 +1,5 @@
 
+
 # Olá! Eu sou João Gabriel 👋
 
 🎓 Estudante de Sistemas de Informação e Redes de Computadores.
@@ -12,6 +13,44 @@
 🎯 Meu objetivo é construir projetos práticos, aprender continuamente e crescer profissionalmente na área de tecnologia.
 
 ---
+
+## 👨‍💻 Sobre mim
+
+Olá! Eu sou João Gabriel Fonseca Souza, estudante de **Sistemas de Informação** e **Redes de Computadores**, interessado em desenvolvimento de software, análise de dados e tecnologia.
+
+Tenho experiência profissional com **gestão de processos, Excel, Power BI e acompanhamento de indicadores**. Atualmente, estou ampliando meus conhecimentos em programação e desenvolvendo projetos práticos para evoluir na área de tecnologia.
+
+### 🎯 Áreas de interesse
+
+- 💻 Desenvolvimento de software e análise de sistemas
+- 📊 Análise de dados e visualização de indicadores
+- 🌐 Redes de computadores
+- 🔐 Segurança da informação
+- ⚙️ Automação de tarefas e melhoria de processos
+
+### 📚 Atualmente estudando
+
+- Linguagem C e lógica de programação
+- Python e análise de dados
+- HTML, CSS e JavaScript
+- Git e GitHub
+
+## 🎓 Formação acadêmica
+
+- **Bacharelado em Sistemas de Informação** — Em andamento Newton Paiva
+
+Meus estudos envolvem lógica de programação, desenvolvimento de software, bancos de dados, infraestrutura de redes e fundamentos de tecnologia da informação.
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:joaogabrielfonsecasouza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-fonseca-de-souza-617a461ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ### 🚀 Atualmente estou aprendendo
 
