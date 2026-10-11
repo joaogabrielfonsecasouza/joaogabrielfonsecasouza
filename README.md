@@ -49,4 +49,16 @@ Projetos acadêmicos, exercícios de programação e projetos pessoais desenvolv
 ### Linguagens que estou estudando
 
 
+## 🚀 Projetos em destaque
+
+### 💻 Meus Programas em C
+
+Repositório com exercícios de lógica de programação e atividades desenvolvidas durante meus estudos em Sistemas de Informação.
+
+🔗 [Acessar repositório](https://github.com/joaogabrielfonsecasouza/meus-programas)
+
+---
+
+
+
 
