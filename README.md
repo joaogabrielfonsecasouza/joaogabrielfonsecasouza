@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**joaogabrielfonsecasouza/joaogabrielfonsecasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou João Gabriel 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Sistemas de Informação e Redes de Computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estou desenvolvendo minhas habilidades em programação, desenvolvimento web, análise de dados e tecnologia.
+
+📚 Atualmente, estudo C, Python, HTML, CSS e JavaScript, buscando evoluir por meio de exercícios, projetos acadêmicos e projetos pessoais.
+
+📊 Tenho experiência profissional com análise de dados, Excel, Power BI e melhoria de processos.
+
+🎯 Meu objetivo é construir projetos práticos, aprender continuamente e crescer profissionalmente na área de tecnologia.
+
+---
+
+### 🚀 Atualmente estou aprendendo
+
+- Lógica de programação e linguagem C
+- Desenvolvimento web com HTML, CSS e JavaScript
+- Python para automação e análise de dados
+- Redes de computadores e sistemas de informação
+
+### 📂 O que você encontrará por aqui
+
+Projetos acadêmicos, exercícios de programação e projetos pessoais desenvolvidos durante minha jornada de aprendizado.
