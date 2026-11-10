@@ -84,7 +84,7 @@ Projetos acadêmicos, exercícios de programação e projetos pessoais desenvolv
 </div>
 
 ## 📊 Estatísticas de programação
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@3b57f428-dcf9-4dbe-aac8-48df5d19d7ed/27f681a0-feed-4203-a133-43d38a3138f4.png" /></a>
+ <figure><embed src="https://wakatime.com/share/@3b57f428-dcf9-4dbe-aac8-48df5d19d7ed/68d82d0a-aaac-414e-a0b8-e290483bab8a.svg"></embed></figure>
 
 ### Linguagens que estou estudando
 
